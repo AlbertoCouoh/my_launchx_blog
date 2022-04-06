@@ -8,7 +8,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 🚀 Mis espectativas para este proyecto son:
 
-- El uso correcto de la herramienta de git y github.
-- Aprender los necesario para crear proyectos de desarrollo web con el lenguaje de JavaScript.
-- Aplicar mis conocimientos adquiridos en front-end.
-- Reforzar mis conocimientos de programacón.
+* El uso correcto de la herramienta de git y github.
+* Aprender los necesario para crear proyectos de desarrollo web con el lenguaje de JavaScript.
+* Aplicar mis conocimientos adquiridos en front-end.
+* Reforzar mis conocimientos de programacón.
