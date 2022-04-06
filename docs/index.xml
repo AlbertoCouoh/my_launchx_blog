@@ -8,12 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://albertocouoh.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mis expectativas</title>
+      <title>La cultura de un desarrollador de software</title>
       <link>https://albertocouoh.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
       
       <guid>https://albertocouoh.github.io/my_launchx_blog/posts/intro/</guid>
-      <description>Usa este post para anotar tus expectativas de la misión.</description>
+      <description>Para mi la cultura de un profecional de software se basa en los siguientes puntos:
+  Ser paciente: Ya que la solución de un problema no siempre sale a la primera.
+  Ser autodidacta: La tecnología avanza demasiado rapido, asi que es necesario estar aprendiendo de manera continua.
+  Comunicación: Es necesario comunicarse con comunidades de otros desarrolladores ya que es un skill que todo dev debe tener.</description>
     </item>
     
     <item>
